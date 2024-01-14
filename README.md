@@ -51,7 +51,7 @@ Use the Preview button that says "Project Index" in the top tool bar. Click the 
 
 For subsequent previews, you will not need to press the drop down -- your button should now read "Box URL".
 
-**Q1.1.**  What is the goal of running `bundle install`?
+**Q1.1.**  What is the goal of running `bundle install`? The goal of running `bundle install` is to set up files project to be ready to unpacked Gemfile
 
 **Q1.2.**  Why is it good practice to specify `--without production` when running  it on your development computer?
 
